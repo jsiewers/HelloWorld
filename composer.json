@@ -1,0 +1,8 @@
+{
+    "name": "jsiewers/helloworld",
+    "autoload": {
+        "psr-0" : {
+            "Jsiewers\\HelloWorld" : "src"
+        }
+    }
+}
