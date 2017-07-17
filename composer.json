@@ -1,7 +1,7 @@
 {
     "name": "jsiewers/helloworld",
     "autoload": {
-    "description": "this is a hello world repo for composer.",
+    "description": "Hello world repo for composer.",
     "license": "MIT",
     "authors": [
         {
