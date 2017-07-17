@@ -1,4 +1,4 @@
 jsiewers-helloworld
 ===================
 
-Dummy Repository
+Test Repository
