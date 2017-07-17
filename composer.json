@@ -1,6 +1,5 @@
 {
     "name": "jsiewers/helloworld",
-    "autoload": {
     "description": "Hello world repo for composer.",
     "license": "MIT",
     "authors": [
@@ -16,4 +15,3 @@
         "php": "^5.3.3 || ^7.0"
     }
   }
-}
